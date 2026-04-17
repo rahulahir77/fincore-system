@@ -1,0 +1,2 @@
+rahul,DEPOSIT,500.0
+rahul,WITHDRAW,200.0
